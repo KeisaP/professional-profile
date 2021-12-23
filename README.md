@@ -45,5 +45,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ### Screenshots
 
-![Top of Page](../images/Professional_Profile_screenshot_1.PNG)
-![Bottom of Page](../images/Professional_Profile_screenshot_2.PNG)
+![Top of Page](assets/images/Professional_Profile_screenshot_1.PNG)
+![Bottom of Page](assets/images/Professional_Profile_screenshot_2.PNG)
