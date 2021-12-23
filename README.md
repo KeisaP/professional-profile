@@ -3,7 +3,7 @@ A web application
 
 ## 02 Week 2:  Professional Profile
 ### Description: 
-#### This webpage is a profile page that displays a brief description of my professional career, my work and ways to contact me, created by Keisa Portress. 
+#### This webpage is a profile page that displays a brief description of a professional career, work and ways to contact the professional, created by Keisa Portress. 
 <br>
 <br>
 
@@ -14,9 +14,9 @@ A web application
 
 ### User Story:
 ```
-AS a Professional
-I WANT to highlight my career and projects completed
-SO THAT potential employers and collaborators can learn about me and contact me using information provided
+AS AN employer
+I WANT to view a potential employee's deployed portfolio of work samples
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 ```
 ### Acceptance Criteria:
 ```
@@ -44,6 +44,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 <br>
 
 ### Screenshots
-## -Working Code-
+
 ![Top of Page](../images/Professional Profile screenshot 1.PNG)
 ![Bottom of Page](../images/Professional Profile screenshot 2.PNG)
