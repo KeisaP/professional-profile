@@ -2,6 +2,7 @@ body{
 	background-color:#f6f5f5;
 	margin:0px;
 	padding:0px;
+	font-family: Verdana, sans-serif;
 }
 ul{
 	list-style:none;
@@ -19,14 +20,14 @@ nav {
 	justify-content: space-between;
 	align-items:center;
 	height:60px;A
-	background-color:#ffffff;
+	background-color: #ffffff;
 	box-shadow:2px 2px 12px rgba(0,0,0,0.2);
 	padding:0px 5%;
-	
 }
 nav ul{
 	display: flex;
 }
+
 .toggle{
 	display: none;
 }
@@ -34,7 +35,7 @@ nav ul{
 nav ul li a{
 	margin:30px;
 	color:#505050;
-	font-size: 15px;
+	font-size: 20px;
 	font-weight:700;
 }
 
@@ -103,16 +104,15 @@ nav ul li a{
 	line-height:0px;
 }
 .work-text p:nth-child(2){
-	font-family:calibri;
+	font-family: calibri;
 	font-weight: bold;
 	color:#3e3d3d;
 	font-size: 15px;
 	line-height: 5px;
 }
 .work-text p:nth-child(3){
-    font-family:calibri;
+    font-family: calibri;
     color:#7e7d7d;
-    font-size: ;
 }
 .work-text{
 	width: 500px;
@@ -133,8 +133,6 @@ nav ul li a{
 	display: flex;
 	flex-direction: column;
 	margin: 0px 4px;
-	
-	
 }
  
 .box-1 span,
@@ -151,13 +149,13 @@ nav ul li a{
 	font-weight: bold;
 }
 .box-1{
-	background-image:url("assets\images\Presentation Slider png_.PNG");
+	background-image: url("../images/AdobeStock_261996948.jpeg");
 }
 .box-2{
-	background-image:url("assets\images\cyber png_.PNG");
+	background-image: url("../images/AdobeStock_354330533.jpeg");
 }
 .box-3{
-	background-image: url("assets\images\bgeffects png_.PNG");
+	background-image: url("../images/AdobeStock_208736519.jpeg");
 }
 
 .box-1 p:nth-child(2),
@@ -176,6 +174,14 @@ nav ul li a{
 	text-align:center;
 	width: 230px;
 	margin:0px 0px 20px 0px;
+}
+
+.heading {
+	color: black;
+	font-size: 13px;
+	font-weight: bolder;
+	padding: 8px; 
+	background-color: #fffffffa;
 }
 
 footer p{
